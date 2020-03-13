@@ -7,12 +7,12 @@
 <br><br><br>
 
 ## 프로젝트 소개
-- #### [기간]
+- ### [기간]
   - 2017.01.02 ~ 2017.02.10
 
 <br>
 
-- #### [역할]
+- ### [역할]
   - 안드로이드 개발
   - Database 설계 및 관리
 
@@ -22,7 +22,7 @@
 
 <br><br>
 
-- #### [동작 원리 및 시연 영상]
+- ### [동작 원리 및 시연 영상]
   - **[동작 원리]**
     - (1) 아두이노의 RFID 센서에 RFID 카드가 부착되면 MQTT 통신을 통해 Wifi 쉴드가 웹서버로 신호를 전송
     - (2) 웹서버와 연결되어 있는 데이터베이스에는 RFID 부착에 관한 데이터가 저장
@@ -35,7 +35,7 @@
 <br><br>
 
 
-- #### [프로젝트 시뮬레이션 영상]
+- ### [프로젝트 시뮬레이션 영상]
   - **[특징]**
     - 주차장에 주차가 되어있는지 여부를 어플리케이션으로 통해 확인할 수 있습니다.
     - 실제 RFID 장비의 가격 문제로 인해 아두이노 RFID 센서를 사용하였습니다.
@@ -48,19 +48,22 @@
 <br><br>
 
 
-- #### [Arduino 및 RFID]
+- ### [Arduino 및 RFID]
   ![arduino_rfid](./images/arduino_rfid.jpg)
 
 <br><br>
 
 ![project_01](./images/project_01.png)
+
+<br>
+
 ![project_02](./images/project_02.jpg) ![project_03](./images/project_03.jpg)
 
 
 <br><br>
 
 
-- #### [Database 테이블]
+- ### [Database 테이블]
   ![database_table](./images/database_table.jpg)
 
 
@@ -83,6 +86,6 @@
 
 
 
-- #### [MQTT 통신]
+- ### [MQTT 통신]
 
     ![mqtt](./images/mqtt.jpg)
