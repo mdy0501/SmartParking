@@ -1,11 +1,31 @@
 # Smart Parking System
-아두이노와 직접구현 IPS 통한 주차 공간 안내 서비스! sk_didimdol 1 team
+- 아두이노를 이용한 스마트 주차 관리 시스템
+
+
+<br><br>
+
+## 프로젝트 소개
+- #### [프로젝트 시뮬레이션 영상](https://youtu.be/jJR5zbnAEQs)
+- #### [동작 원리 설명 영상](https://youtu.be/RDAv2dcSpnQ)
+
+# 프로젝트 시뮬레이션 영상
+- 
+
+[![simulation]()./images/simulation_screenshot.png)](https://youtu.be/jJR5zbnAEQs)
+
 
 <br>
 
-# 팀원 목록
-- 팀장 : 박초롱 dpdltl78@nave.com
-- 팀원1 : 민동연 mdy89@hanmail.net
-- 팀원2 : 박태준 taejun0525@nate.com
-- 팀원3 : 곽다인 dain4270@naver.com
-- 팀원4 : 이명우 dhfl1414@naver.com
+# 동작 원리 설명 영상
+- https://youtu.be/RDAv2dcSpnQ
+
+
+<br>
+
+
+
+# 
+
+
+
+
